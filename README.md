@@ -1,2 +1,4 @@
 # coinkite-java
-Coinkite Bitcoin API for Java
+
+
+Unofficial Coinkite Java API library https://github.com/blocktrustorg/coinkite-java
